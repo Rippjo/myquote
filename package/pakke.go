@@ -1,4 +1,4 @@
-package del2pakke
+package main
 
 import (
     "rsc.io/quote"
